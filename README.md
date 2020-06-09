@@ -1,9 +1,9 @@
 # Maze game bot
-It's a maze game bot for telegram.
+It's a maze game bot for telegram messenger.
 
 <!-- You can find that bot in telegram @lososMazeBot -->
 
-If you want run this bot on your machine you need create file private.py with string variable token. And you also need pyTelegramBotAPI.
-You can start bot just run file main.py.
+If you want to run this bot on your machine, you need to create private.py file with your token string. Also you need pyTelegramBotAPI.
+To start bot just run `python main.py`.
 
 <img width="300" src="https://sun9-43.userapi.com/c856136/v856136125/1a7849/Ylgh9nIQuOk.jpg">
