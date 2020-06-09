@@ -1,5 +1,5 @@
 # Maze game bot
-It's a maze game bot for telegram messanger.
+It's a maze game bot for telegram messenger.
 
 <!-- You can find that bot in telegram @lososMazeBot -->
 
